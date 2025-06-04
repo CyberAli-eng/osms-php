@@ -69,9 +69,9 @@ This is a web-based Online Service Management System (OSMS) built using **PHP, M
 ![Request Form](screenshots/request.png.png)
 
 ### Service Allotment Page  
-![Contact Form](screenshots/service_allotment.png.png)
+![Contact Form](screenshots/service-allotment.png.png)
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 - Ali Khusroo Bin Sabir
 - 📧 alisabir97570@gmail.com
 - 🔗 LinkedIn : www.linkedin.com/in/ali-khusroo-bin-sabir
