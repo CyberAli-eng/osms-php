@@ -49,7 +49,32 @@ This is a web-based Online Service Management System (OSMS) built using **PHP, M
 4. **Run the project:**
    ``` bash
    http://localhost/osms-php-project/
+   
 ## 👥 Default Login Credentials
-|Role  	| Username	      | Password
-|Admin	| admin@osms.com  | 123456
-|User   | user@osms.com   | 123456
+
+|Role   | Username       | Password |
+|-------|----------------|----------|
+|Admin  |admin@osms.com  | 123456   |
+|User   |user@osms.com   | 123456   |
+
+## 📸 Screenshots
+
+### Admin Dashboard  
+![Admin Dashboard](screenshots/admin-dashboard.png.png)
+
+### Login Page  
+![Login](screenshots/user-login.png.png)
+
+### Submit Request Form  
+![Request Form](screenshots/request.png.png)
+
+### Service Allotment Page  
+![Contact Form](screenshots/service_allotment.png.png)
+
+##🙋‍♂️ Author
+- Ali Khusroo Bin Sabir
+- 📧 alisabir97570@gmail.com
+- 🔗 LinkedIn : www.linkedin.com/in/ali-khusroo-bin-sabir
+- website: https://cyberali-eng.github.io/CyberALI-eng-portfolio/
+
+
